@@ -25,11 +25,12 @@ It outlines the long-term vision, philosophical underpinnings, economic principl
 
 ## 🌀 License
 
-[The EXOVERSE Whitepaper](https://mirror.xyz/exogov.eth) © 2025 by [Noone](https://twitter.com/Noone_Exoverse)  
-is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+[The EXOVERSE Whitepaper](https://mirror.xyz/exogov.eth) © 2025 by [Noone](https://twitter.com/Noone_Exoverse) 
+This document, **"The Constitution of Exoverse"** and **"Exoverse Whitepaper"**, is licensed under the [GNU General Public License (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html).
 
-This means you may remix, adapt, and share it for non-commercial purposes as long as you give appropriate credit and license your contributions under the same terms.
+You may copy, modify, and distribute this document under the terms of the GPL-3.0 License, but any modified versions must also be distributed under the same license.
 
+*No warranty is provided* for the contents of this document, and the authors are not responsible for any misuse or consequences resulting from its use.
 ---
 
 ## 🧭 Attribution
