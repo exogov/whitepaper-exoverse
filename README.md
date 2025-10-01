@@ -18,14 +18,14 @@ It outlines the long-term vision, philosophical underpinnings, economic principl
 ## 🔗 Live Versions
 
 - 📜 Mirror: [mirror.xyz/exogov.eth](https://mirror.xyz/exogov.eth)
-- 🧪 Notion: [notion.so/exoverse-whitepaper](https://notion.so/...)
-- 🌐 HTML View: [whitepaper.exogov.eth](https://...)
+- 🧪 Notion: [notion.so/exoverse-whitepaper]([https://notion.so/...](https://exogov.notion.site/EXOVERSE-Post-Capital-Protocol-of-Civilization-244d5bd96cf980cfb703e7587af33c1d?pvs=143))
+- 🌐 HTML View: [whitepaper.exogov.eth](https://whitepaper.exogov.eth)
 
 ---
 
 ## 🌀 License
 
-[The EXOVERSE Whitepaper](https://mirror.xyz/exogov.eth) © 2025 by [Noone](https://twitter.com/Noone_Exoverse) 
+[The EXOVERSE Whitepaper](https://mirror.xyz/exogov.eth) © 2025 by [Noone](https://x.com/Noone_Exoverse) 
 This document, **"The Constitution of Exoverse"** and **"Exoverse Whitepaper"**, is licensed under the [GNU General Public License (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html).
 
 You may copy, modify, and distribute this document under the terms of the GPL-3.0 License, but any modified versions must also be distributed under the same license.
