@@ -3049,11 +3049,11 @@ itself.
 Let the next page be written by all of us---together.
 
 **Join the Exoverse movement:** Explore the [Exoverse GitHub
-repository](https://github.com/EXOVERSE){target="_blank"} to contribute
+repository](https://github.com/exogov){target="_blank"} to contribute
 or start coding today.
 
 Stay connected with the Exoverse community by following us on
-[Twitter](https://twitter.com/EXOVERSE){target="_blank"}.
+[X](https://x.com/Noone_Exoverse){target="_blank"}.
 
 **Get involved:** Whether you are a developer, an artist, a thinker, or
 an advocate, your contributions are welcome in shaping the future of
